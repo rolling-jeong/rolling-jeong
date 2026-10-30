@@ -1,7 +1,7 @@
 <p align="center">
   <img src="01-night-garden.svg" alt="파란 장미를 안은 와라와라" width="100%" />
   <br />
-  <img src="./assets/typing-intro-grass-v2.svg" alt="오늘도 데굴데굴" width="720" />
+  <img src="typing-intro-grass-v2.svg" alt="오늘도 데굴데굴" width="720" />
 </p>
 </div>
 

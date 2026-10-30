@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/01-night-garden.svg" alt="파란 장미를 안은 와라와라" width="100%" />
+  <img src="01-night-garden.svg" alt="파란 장미를 안은 와라와라" width="100%" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Pretendard&amp;size=20&amp;pause=1200&amp;color=4A7BD6&amp;center=true&amp;vCenter=true&amp;width=460&amp;lines=오늘도+데굴데굴+🌱;작은+호기심으로+제작합니다;반가워요,+구경+오셨군요+💙" alt="오늘도 데굴데굴, 작은 호기심으로 제작합니다" />
 </p>
